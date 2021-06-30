@@ -27,6 +27,7 @@
   font-weight: 900;
   font-size: 35px;
   text-transform: uppercase;
+  text-shadow: 0px 0px 3px #444;
 }
 .container .header nav, .container .footer nav {
   width: 100%;
@@ -204,6 +205,7 @@
   font-weight: 900;
   font-size: 35px;
   text-transform: uppercase;
+  text-shadow: 0px 0px 3px #444;
 }
 .container .header nav, .container .footer nav {
   width: 100%;
