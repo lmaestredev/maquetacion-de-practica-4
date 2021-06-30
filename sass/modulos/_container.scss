@@ -1,0 +1,10 @@
+@import 'variables';
+
+.container{
+    width:90%;
+    max-width:1082px;
+    margin:0px auto;
+    border:$grayBorder;
+    box-shadow:$grayShadow;
+    margin-top: 40px;
+}
